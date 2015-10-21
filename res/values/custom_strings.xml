@@ -27,6 +27,7 @@
     <string name="add">Add</string>
     <string name="choose_app">Choose app</string>
     <string name="header_category_personalization">UI settings</string>
+    <string name="custom_title">OwlsNest</string>
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
