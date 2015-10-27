@@ -20,4 +20,7 @@
         Setting to false will disable Volume Rocker Wake support -->
     <bool name="config_show_volumeRockerWake">true</bool>
 
+    <!-- Shortcur picker -->
+    <dimen name="shortcut_picker_left_padding">40dip</dimen>
+
 </resources>
